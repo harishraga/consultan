@@ -1,0 +1,11 @@
+.main{
+    float: left;
+ padding-right: 300px;
+ padding-left: 300px;
+}
+.dess{
+    float: left;
+}
+header{
+    background-color: orangered;
+}

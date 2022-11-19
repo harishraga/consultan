@@ -1,0 +1,23 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.head{
+    background-color: black;
+    color: white;
+}
+.serve{
+    width: 250px;
+    height: 250px;
+}
+.content{
+    text-align: center;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    
+}
+.logos{
+    width: 500px;
+    height: 500px;
+}
